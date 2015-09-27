@@ -1,0 +1,8 @@
+MESSAGE "Loading State Diagram data..."
+MESSAGE "Generating E:\workspaces\activehdl\04_counter\slow_counter\compile\vidu.vhd from E:\WORKSPACES\ACTIVEHDL\04_COUNTER\SLOW_COUNTER\SRC\vidu.asf"
+MESSAGE "Synthesis attributes will be generated for Synopsys FPGA Express"
+FSM2VHDL_ERROR FSM2HDL_3002 "No states in machine 'Sreg0'" "E:\WORKSPACES\ACTIVEHDL\04_COUNTER\SLOW_COUNTER\SRC\vidu.asf" 5
+FSM2VHDL_WARNING FSM2HDL_4028 "Attribute ENUM_ENCODING is not supported for Symbolic encoding." "E:\WORKSPACES\ACTIVEHDL\04_COUNTER\SLOW_COUNTER\SRC\vidu.asf" 5
+MESSAGE "HDL code generation completed. 1 error(s), 1 warning(s)"
+MESSAGE "Double-click on error/warning line to see the source of error/warning."
+MESSAGE "Serious errors detected during compilation. HDL file has not been generated."

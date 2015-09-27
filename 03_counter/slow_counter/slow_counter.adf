@@ -1,0 +1,77 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=2
+Current Config=compile
+
+[Configurations]
+compile=slow_counter
+
+[Library]
+slow_counter=.\slow_counter.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=Actel ProASIC3
+fileopenfolder=E:\workspaces\activehdl\03_counter\slow_counter\src
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+slow_counter=.
+Active_lib=
+xilinxun=
+UnlinkedDesignLibrary=
+DESIGNS=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=counter50|behavior|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/top.bde=-1
+/counter50.vhd=-1
+/counter1M.vhd=-1
+/counter.vhd=-1
+/Couter10.vhd=-1
+/Couter6.vhd=-1
+/decoder7seg.vhd=-1
+/counter128_10.vhd=-1
+/DFF_R.vhd=-1
+/counter50.asdb=-1
+/counter50.awc=-1
+
+[Files.Data]
+.\src\top.bde=Block Diagram
+.\src\counter50.vhd=VHDL Source Code
+.\src\counter1M.vhd=VHDL Source Code
+.\src\counter.vhd=VHDL Source Code
+.\src\Couter10.vhd=VHDL Source Code
+.\src\Couter6.vhd=VHDL Source Code
+.\src\decoder7seg.vhd=VHDL Source Code
+.\src\counter128_10.vhd=VHDL Source Code
+.\src\DFF_R.vhd=VHDL Source Code
+.\src\counter50.asdb=Accelerated Waveform File
+.\src\counter50.awc=Accelerated Waveform Configuration
+
+[file_out:/top.bde]
+/..\compile\top.vhd=-1
+

@@ -1,0 +1,124 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 1991-2012 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus II 32-bit
+# Version 12.1 Build 177 11/07/2012 SJ Web Edition
+# Date created = 16:24:24  September 13, 2015
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		03_counter_quartus_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus II software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "Cyclone IV GX"
+set_global_assignment -name DEVICE EP4CGX150DF31C7
+set_global_assignment -name TOP_LEVEL_ENTITY top
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 12.1
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "16:24:24  SEPTEMBER 13, 2015"
+set_global_assignment -name LAST_QUARTUS_VERSION 12.1
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
+set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
+set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
+set_global_assignment -name NOMINAL_CORE_SUPPLY_VOLTAGE 1.2V
+set_global_assignment -name EDA_SIMULATION_TOOL "ModelSim (VHDL)"
+set_global_assignment -name EDA_TIME_SCALE "1 ps" -section_id eda_simulation
+set_global_assignment -name EDA_OUTPUT_DATA_FORMAT VHDL -section_id eda_simulation
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/compile/top.vhd
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/src/decoder7seg.vhd
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/src/Couter10.vhd
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/src/Couter6.vhd
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/src/counter128_10.vhd
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/src/counter50.vhd
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/src/counter1M.vhd
+set_global_assignment -name VHDL_FILE ../03_counter/slow_counter/src/counter.vhd
+set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
+set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_global_assignment -name STRATIX_DEVICE_IO_STANDARD "2.5 V"
+set_location_assignment PIN_D10 -to DS_a
+set_location_assignment PIN_D7 -to DS_b
+set_location_assignment PIN_E6 -to DS_c
+set_location_assignment PIN_E4 -to DS_d
+set_location_assignment PIN_E3 -to DS_e
+set_location_assignment PIN_D5 -to DS_f
+set_location_assignment PIN_D4 -to DS_g
+set_location_assignment PIN_A14 -to S0_a
+set_location_assignment PIN_A13 -to S0_b
+set_location_assignment PIN_C7 -to S0_c
+set_location_assignment PIN_C6 -to S0_d
+set_location_assignment PIN_C5 -to S0_e
+set_location_assignment PIN_C4 -to S0_f
+set_location_assignment PIN_C3 -to S0_g
+set_location_assignment PIN_D3 -to S1_a
+set_location_assignment PIN_A10 -to S1_b
+set_location_assignment PIN_A9 -to S1_c
+set_location_assignment PIN_A7 -to S1_d
+set_location_assignment PIN_A6 -to S1_e
+set_location_assignment PIN_A11 -to S1_f
+set_location_assignment PIN_B6 -to S1_g
+set_location_assignment PIN_B9 -to M0_a
+set_location_assignment PIN_B10 -to M0_b
+set_location_assignment PIN_C8 -to M0_c
+set_location_assignment PIN_C9 -to M0_d
+set_location_assignment PIN_D8 -to M0_e
+set_location_assignment PIN_D9 -to M0_f
+set_location_assignment PIN_E9 -to M0_g
+set_location_assignment PIN_E10 -to M1_a
+set_location_assignment PIN_F8 -to M1_b
+set_location_assignment PIN_F9 -to M1_c
+set_location_assignment PIN_C10 -to M1_d
+set_location_assignment PIN_C11 -to M1_e
+set_location_assignment PIN_C12 -to M1_f
+set_location_assignment PIN_D12 -to M1_g
+set_location_assignment PIN_AJ16 -to CLK
+set_location_assignment PIN_AA25 -to G1Hz
+set_location_assignment PIN_AB25 -to G2Hz
+set_location_assignment PIN_F27 -to G4Hz
+set_location_assignment PIN_F26 -to G8Hz
+set_location_assignment PIN_W26 -to G32Hz
+set_location_assignment PIN_Y22 -to G128Hz
+set_location_assignment PIN_Y25 -to G1024Hz
+set_location_assignment PIN_AE25 -to Key
+set_location_assignment PIN_AA26 -to aReset
+set_location_assignment PIN_E15 -to L7seg_a
+set_location_assignment PIN_E12 -to L7seg_b
+set_location_assignment PIN_G11 -to L7seg_c
+set_location_assignment PIN_F11 -to L7seg_d
+set_location_assignment PIN_F16 -to L7seg_e
+set_location_assignment PIN_D16 -to L7seg_f
+set_location_assignment PIN_F14 -to L7seg_g
+set_location_assignment PIN_V28 -to Led[0]
+set_location_assignment PIN_U30 -to Led[1]
+set_location_assignment PIN_V21 -to Led[2]
+set_location_assignment PIN_C2 -to Led[3]
+set_location_assignment PIN_AF30 -to Pause
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

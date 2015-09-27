@@ -1,0 +1,222 @@
+timestamp=1442511294178
+
+[counter]
+A/behavior=21|./src/counter.vhd|43|1*242726
+B/behavior=3*44743
+BinI32/behavior=3*5364
+C=8.2.1986.3485  (Windows)
+C/behavior=8.2.1986.3485  (Windows)
+I=0*62472
+I/behavior=0*95547
+M=11|0|v63|1441951301731|./src/counter.vhd|0*62101*0x94c75a0fae5dc5b355327f2d80d0f4a80133abf1|0*62400*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behavior=21|0|v63|1442136128528|./src/counter.vhd|0*95132*0x280020eaf4f00c491c80838cf489d92fb21a055a|0*95463*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/counter.vhd|29
+S/counter=40|0|2*0
+Version=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+
+[counter10]
+A/counter10=A/Counter10 21|./src/couter10.vhd|40|1*434173
+B/counter10=3*88547
+C=8.2.1986.3485  (Windows)
+C/counter10=8.2.1986.3485  (Windows)
+I=0*158350
+I/counter10=I/Counter10 0*158939
+M=11|0|v63|1442291135241|./src/couter10.vhd|0*157987*0xa1f5bcf77bdf4d72d7c23f659150e9556c21d289|0*158275*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/counter10=M/Counter10 21|0|v63|1442291135257|./src/couter10.vhd|0*158522*0xfd513d4ecef23869bfacf45ee95545515f145b83|0*158851*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/couter10.vhd|29
+S/counter10=S/Counter10 40|0|2*27170
+
+[counter128_10]
+A/behavior=21|./src/counter128_10.vhd|42|1*432354
+B/behavior=3*83691
+C=8.2.1986.3485  (Windows)
+C/behavior=8.2.1986.3485  (Windows)
+I=0*80528
+I/behavior=0*157535
+M=11|0|v63|1442135416117|./src/counter128_100.vhd|0*80123*0xdd3c69c6282f4f305d08695c8d8a68711138ccb2|0*80443*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behavior=21|0|v63|1442158013555|./src/counter128_10.vhd|0*156190*0x8bf4765e2f8ef328f5d7b655a544d4b6cfe24995|0*157439*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/counter128_100.vhd|32
+S/counter128_10=40|0|2*21807
+
+[counter128_100]
+A/behavior=21|./src/counter128_100.vhd|42|1*178882
+B/behavior=3*26705
+C=8.2.1986.3485  (Windows)
+C/behavior=8.2.1986.3485  (Windows)
+I=0*78089
+I/behavior=0*79674
+M=11|0|v63|1442135185255|./src/counter128_100.vhd|0*77680*0xca8113c0eebb840932acd36c631ca48c4bc00bb2|0*78003*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behavior=21|0|v63|1442135394606|./src/counter128_100.vhd|0*79128*0xb6e6631f081526178d103870fc922b57b65aad63|0*79576*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/counter128_100.vhd|32
+
+[counter16]
+A/behavior=21|./src/counter.vhd|39|1*95887
+BinI32/behavior=3*4809
+I=0*35166
+I/behavior=0*44909
+M=11|0|v98|1385317020552|./src/counter.vhd|0*34814*0x2ba6141742fa971c72922c50594fbe0554deea78|0*35089*0xab32bc1a2daf049573e14469f634e0e6
+M/behavior=21|0|v98|1385518469114|./src/counter.vhd|0*44487*0xb69d251c6810bf7a97e96208888f96e15e06a01a|0*44820*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/counter.vhd|29
+S/counter16=40|0|2*1542
+Version=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+
+[counter1m]
+A/behavior=21|./src/counter1M.vhd|47|1*405154
+B/behavior=3*78892
+BinI32/behavior=3*6126
+C=8.2.1986.3485  (Windows)
+C/behavior=8.2.1986.3485  (Windows)
+I=0*60808
+I/behavior=0*137533
+M=11|0|v63|1441951299637|./src/counter1M.vhd|0*60306*0x0821bc023d7c1638bf9dc48ce562af671721e573|0*60732*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behavior=21|0|v63|1442155453313|./src/counter1M.vhd|0*136943*0x8b3962e51570c7d646426c91e55ebc809f54df59|0*137445*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/counter1M.vhd|31
+S/counter1m=S/counter1M 40|0|2*3086
+Version=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+
+[counter40]
+A/behavior=21|./src/counter40.vhd|42|1*64014
+BinI32/behavior=3*242
+I=0*26879
+I/behavior=0*30059
+M=11|0|v98|1385315474380|./src/counter40.vhd|0*26507*0x06109644c52dfa2b000a700a80d32615a15e6c6d|0*26800*0xab32bc1a2daf049573e14469f634e0e6
+M/behavior=21|0|v98|1385316150887|./src/counter40.vhd|0*29489*0x032f2b50181c17f97ef5c30d3baf815b42017d7e|0*29968*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/counter40.vhd|31
+S/counter40=40|0|2*6913
+Version=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+Version/behavior=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+
+[counter50]
+A/behavior=21|./src/counter50.vhd|42|1*469025
+B/behavior=3*92883
+C=8.2.1986.3485  (Windows)
+C/behavior=8.2.1986.3485  (Windows)
+I=0*56145
+I/behavior=0*169583
+M=11|0|v63|1441951212963|./src/counter40.vhd|0*55784*0xe5532f7c48550c34e5b762df03fa45b7af50b6fa|0*56069*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behavior=21|0|v63|1442507245325|./src/counter50.vhd|0*169024*0xa2d46af3bd4b84a3d0f225e01193ece0f880c2f1|0*169495*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/counter40.vhd|32
+S/counter50=40|0|2*12987
+
+[counter6]
+A/counter6=A/Counter6 21|./src/couter6.vhd|40|1*435638
+B/counter6=3*89576
+C=8.2.1986.3485  (Windows)
+C/counter6=8.2.1986.3485  (Windows)
+I=0*159677
+I/counter6=I/Counter6 0*160255
+M=11|0|v63|1442291153091|./src/couter6.vhd|0*159320*0x7efada2a6be4e37fd890563b23db1872568dd04a|0*159604*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/counter6=M/Counter6 21|0|v63|1442291153093|./src/couter6.vhd|0*159848*0x824f9e7a8f45e48a4f87bf61dee51475188f0b74|0*160170*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/couter6.vhd|29
+S/counter6=S/Counter6 40|0|2*25246
+
+[couter10]
+A/couter10=A/Couter10 21|./src/Couter10.vhd|40|1*344161
+B/couter10=3*63614
+C=8.2.1986.3485  (Windows)
+C/couter10=8.2.1986.3485  (Windows)
+I=0*69166
+I/couter10=I/Couter10 0*122167
+M=11|0|v63|1441951718003|./src/Couter10.vhd|0*68807*0x426bd9b4c50110e09fc45adc28a0d90eac317a0d|0*69092*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/couter10=M/Couter10 21|0|v63|1442145062862|./src/Couter10.vhd|0*121757*0x0e5d2ab2a9f432d96d4fa7a802c2ea6f29ed9bd2|0*122081*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/Couter10.vhd|29
+S/couter10=S/Couter10 40|0|2*14506
+
+[couter6]
+A/couter6=A/Couter6 21|./src/couter6.vhd|40|1*400692
+B/couter6=3*75361
+C=8.2.1986.3485  (Windows)
+C/couter6=8.2.1986.3485  (Windows)
+I=0*71033
+I/couter6=I/Couter6 0*142803
+M=11|0|v63|1441951927898|./src/Couter6.vhd|0*70680*0xfc9514f27c3ef0f83f9ec48963d0e4c98a9a02ba|0*70961*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/couter6=M/Couter6 21|0|v63|1442154878896|./src/couter6.vhd|0*142403*0xa9f9b1f4b587876c75e3acfa988d93898a8a3498|0*142720*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/Couter6.vhd|29
+S/couter6=S/Couter6 40|0|2*16430
+
+[decoder7seg]
+A/behavior=21|./src/decoder7seg.vhd|50|1*322534
+A/convert=21|./src/decoder7seg.vhd|93|1*325646
+B/behavior=3*55200
+B/convert=3*58608
+C=8.2.1986.3485  (Windows)
+C/behavior=8.2.1986.3485  (Windows)
+C/convert=8.2.1986.3485  (Windows)
+I=0*72501
+I/behavior=0*73600
+I/convert=0*117742
+M=11|0|v63|1442106750956|./src/decoder7seg.vhd|0*72056*0x70714f7139621bf6cfb3513ffa8bd135e15ad47e|0*72421*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behavior=21|0|v63|1442144496167|./src/decoder7seg.vhd|0*72675*0x3a0bc7bbf11af8a26e4c24958a8867c06d4c648b|0*73508*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/convert=21|0|v63|1442144496168|./src/decoder7seg.vhd|0*116350*0xcfed9df04ee3989cf8d1cead472467cfff4757cc|0*117651*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/decoder7seg.vhd|34
+S/decoder7seg=40|0|2*18353
+
+[dff_r]
+A/behavior=21|./src/DFF_R.vhd|41|1*402146
+B/behavior=3*76388
+C=8.2.1986.3485  (Windows)
+C/behavior=8.2.1986.3485  (Windows)
+I=0*143442
+I/behavior=0*143830
+M=11|0|v63|1442155040367|./src/DFF_R.vhd|0*143151*0x5a0c9b396ef122fdd9274c94f550e51455c2a31b|0*143374*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/behavior=21|0|v63|1442155040369|./src/DFF_R.vhd|0*143541*0x217ffa2e371f94ddc354fb0154a6eb050ed83524|0*143750*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/DFF_R.vhd|30
+S/dff_r=S/DFF_R 40|0|2*23363
+
+[dm74ls47]
+B/behaviour=3*12980
+BinI32/behaviour=3*2691
+C=8.2.1986.3485  (Windows)
+C/behaviour=8.2.1986.3485  (Windows)
+I=0*64042
+I/behaviour=0*65532
+M=11|0|v63|1441951303267|./src/BCD_7Seg_Decoder.vhd|0*63551*0x64e4ab1ca109274bccb3c75c966c874ae0d31d70|0*63960*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./src/BCD_7Seg_Decoder.vhd|10
+S/dm74ls47=S/DM74LS47 40|0|2*8432
+Version=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+Version/behaviour=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+
+[top]
+A/top=24|.\src\top.bde|10000|1*470925
+B/top=3*94239
+BinI32/top=3*6925
+C=8.2.1986.3485  (Windows)
+C/top=8.2.1986.3485  (Windows)
+I=0*147490
+I/top=0*173228
+M=11|0|v63|1442155657722|./compile/top.vhd|0*146054*0xab86586aebba0817e2560154d59a49ac14daf564|0*147422*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+M/top=21|0|v63|1442511293868|./compile/top.vhd|0*169829*0x045dd6ec37da92223496c01e76c930227fe1aa7c|0*173153*0xfce7a17cbf8a959a0c8fb6f5d0fad10d
+R=./compile/top.vhd|25
+Version=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+Version/top=9.1.2354.4209  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=840
+Version=73
+
+[~MFT]
+0=709|0slow_counter.mgf|173228|144235
+1=206|1slow_counter.mgf|470925|445268
+2=12|2slow_counter.mgf|27170|0
+3=199|3slow_counter.mgf|94239|63363
+
+[~U]
+counter=11|0*61881||0x3
+counter10=Counter10 11|0*157785||0x3
+counter128_10=11|0*79925||0x3
+counter128_100=11|0*77479|
+counter16=11|0*34635||0x3
+counter1m=counter1M 11|0*59998||0x3
+counter40=11|0*26337||0x3
+counter50=11|0*55614||0x3
+counter6=Counter6 11|0*159121||0x3
+couter10=Couter10 11|0*68608||0x3
+couter6=Couter6 11|0*70484||0x3
+decoder7seg=11|0*71782||0x3
+dff_r=DFF_R 11|0*142981||0x3
+dm74ls47=DM74LS47 11|0*63236||0x3
+top=11|0*144743|
+

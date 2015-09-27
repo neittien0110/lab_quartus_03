@@ -1,0 +1,9 @@
+.\src\top.bde
+.\src\counter50.vhd
+.\src\counter1M.vhd
+.\src\counter.vhd
+.\src\Couter10.vhd
+.\src\Couter6.vhd
+.\src\decoder7seg.vhd
+.\src\counter128_10.vhd
+.\src\DFF_R.vhd
